@@ -15,10 +15,9 @@ Nhận dạng hình ảnh từ Webcam và chuyển thành Gif. Sau đó thay đ�
 *You can replace in my code*
 
 To use cvzone you need install:
-'''
-!pip install mediapipe
-!pip install cvzone
-'''
+'''!pip install mediapipe'''
+'''!pip install cvzone'''
+
 
 Ouput of project:
 
