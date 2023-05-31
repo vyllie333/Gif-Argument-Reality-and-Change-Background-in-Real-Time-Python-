@@ -1,7 +1,6 @@
 # Gif-Argument-Reality-and-Change-Background-in-Real-Time-Python-
-Nhận dạng hình ảnh từ Webcam và chuyển thành Gif. Sau đó thay đổi nền với đối tượng nhận dạng là Gif đầu ra. 
-
-(Detect image from Webcam and convert to Gif. Then change background with object is Gif)
+Nhận dạng hình ảnh từ Webcam và chuyển thành Gif. Sau đó thay đổi nền với đối tượng nhận dạng là Gif đầu ra.
+Detect image from Webcam and convert to Gif. Then change background with object is Gif)
 
 **Detect image and convert to Gif use 2 Algorithm:**
 > ORB(Oriented and Rotated BRIEF ): Thuật toán này có thể phát hiện và mô tả đặc trưng như góc, điểm, cạnh ,… một cách đơn giản và nhanh chóng.
