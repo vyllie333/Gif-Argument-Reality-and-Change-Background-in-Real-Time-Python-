@@ -29,4 +29,4 @@ Ouput of project:
 
 ![Image](https://user-images.githubusercontent.com/75652144/242340771-4d2af3da-11f6-4a16-9dd0-7f1aea1335aa.jpg)
 
-_`Unzip background.rar(list background) and imageandgif.rar(contains of 2 files in my code)`_
+_`Unzip background(list background) and imageandgif(contains of 2 files in my code)`_
