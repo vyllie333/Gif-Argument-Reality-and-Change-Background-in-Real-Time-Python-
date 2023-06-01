@@ -15,10 +15,10 @@ Nhận dạng hình ảnh từ Webcam và chuyển thành Gif. Sau đó thay đ�
 
 > Self Segmentation: Module Self Segmentation trong cvzone được sử dụng để loại bỏ phông nền của ảnh selfie chụp. Quá trình này giúp tách riêng người chụp khỏi nền và tạo điều kiện cho việc thay thế phông nền.
 
-**My project has list background, you just need use keyboard to change other background:** 
+**My project has list background, you just need use keyboard to change other background:** (*You can replace in my code*)
 '1': previous background
 '2': next background
-*You can replace in my code*
+
 
 To use cvzone you need install:
 `!pip install mediapipe 
