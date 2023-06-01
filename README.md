@@ -17,6 +17,7 @@ Nhận dạng hình ảnh từ Webcam và chuyển thành Gif. Sau đó thay đ�
 
 **My project has list background, you just need use keyboard to change other background:** (*You can replace in my code*)
 '1': previous background
+
 '2': next background
 
 
