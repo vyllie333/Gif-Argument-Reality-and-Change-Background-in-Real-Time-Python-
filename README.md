@@ -1,7 +1,7 @@
 # 📝Gif Argument Reality and Change Background in Real Time Python
 
 ## Desciption
->#### Detect image from Webcam and convert to Gif. Then change background with object is Gif
+>#### Detect image from Webcam and convert to Gif. Then change background with object is Gif.
 
 
 ## Authors
